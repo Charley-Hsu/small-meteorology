@@ -4,6 +4,8 @@
 .idea/
 target/
 static/
+application.yml
+
 # Compiled class file
 *.class
 

@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>net.arraysnow.meteorology.small</name>
+    <name>small-meteorology</name>
     <description>small-meteorology</description>
 
     <parent>
